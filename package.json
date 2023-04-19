@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Cutshadows/ecommerce-back/issues"
   },
-  "homepage": "https://github.com/Cutshadows/ecommerce-back#readme"
+  "homepage": "https://github.com/Cutshadows/ecommerce-back#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
 }
